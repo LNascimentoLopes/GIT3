@@ -1,11 +1,14 @@
 # GIT3
-Desafio de Code Review
+## Desafio de Code Review
 
-Como executar 
-``git 
+---
+
+# Como executar 
+```bash
 python OLA_MUNDO.py
-``
+```
+---
 
-Autores
+## Autores
 - Pollyana Valverde
 - Lucas Nascimento
